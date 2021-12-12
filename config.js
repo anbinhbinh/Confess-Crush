@@ -1,5 +1,5 @@
 const CONFIG = {
-    titleWeb: "Tiêu đề web",
+    titleWeb: "Tặng quà nè",
     introTitle: 'Xin chào',
     introDesc: `Đây là Công chúa lớn. Hôm nay Công chúa lớn sẽ mang đến cho bạn một món quá đặc biệt nhé ;) `,
     btnIntro: '^^HiHi^^',
@@ -8,8 +8,8 @@ const CONFIG = {
     btnNo: '500k <3',
     question: 'Bạn có thích món quà này không? Nếu thích hãy reply"CamonLHN" nhéeee',
     btnReply: 'CamonLHN',
-    reply: 'CamonLHN',
+    reply: 'Yêuuuuuu',
     mess: 'Mình biết ban sẽ thích món quà này mà 😘😘',
-    messDesc: 'Bạn có thích nhận thêm quà nữa không? Nếu muốn hãy rep "Có chứ" nhé.',
-    btnAccept: 'Có chứ',
+    messDesc: 'Bạn có thích nhận thêm quà nữa không?',
+    btnAccept: 'Hãy cho mình thêm đi',
 }
