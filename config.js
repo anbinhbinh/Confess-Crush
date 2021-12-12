@@ -10,6 +10,6 @@ const CONFIG = {
     btnReply: 'Yêuuuuu',
     reply: 'Mình thích lắm',
     mess: 'Mình biết bạn sẽ thích món quà này mà 😘😘',
-    messDesc: 'Bạn có thích nhận thêm quà nữa không?',
-    btnAccept: 'Tất nhiên rồi',
+    messDesc: 'Bạn có muốn được nhận thêm quà nữa không?',
+    btnAccept: 'Tất nhiên rồii',
 }
