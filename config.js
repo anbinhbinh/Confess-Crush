@@ -12,4 +12,5 @@ const CONFIG = {
     mess: 'Mình biết bạn sẽ thích món quà này mà 😘😘',
     messDesc: 'Bạn có muốn được nhận thêm quà nữa không?',
     btnAccept: 'Tất nhiên rồii',
+    messLink: 'https://outlook.office.com/mail/' 
 }
